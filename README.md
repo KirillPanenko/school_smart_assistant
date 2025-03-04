@@ -29,7 +29,7 @@
 
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/yourusername/school_smart_assistant.git
+   git clone https://github.com/KirillPanenko/school_smart_assistant.git
    cd school_smart_assistant
    ```
 
